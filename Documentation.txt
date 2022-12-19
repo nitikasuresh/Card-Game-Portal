@@ -1,6 +1,0 @@
-To compile -
-1) Place all resource files into the directory which has all the source code and header files
-2) include all header files into the main.cpp file.
-3) Run the main.cpp file as it is.
-
-(Make sure all the header files are included as shown in the main.cpp file included in the zip folder.)
